@@ -12,4 +12,4 @@ Also,download the stb_image.h and stb_image_write.h library files from the c_lib
 
 # To run the python code type the following command :
 
--python3 python_svd.py (for both greyscale and color images)
+-python3 image_svd.py (for both greyscale and color images)
